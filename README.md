@@ -1,4 +1,4 @@
-# Random Forest analysis of ARG subtype profiles
+# Random Forest analysis of ARG subtypes
 
 R scripts for binary classification of Chongming Island surface-water and adjacent Yangtze River background samples based on ARG subtype abundances (copies/cell).
 
